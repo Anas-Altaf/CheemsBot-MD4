@@ -31,7 +31,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': 'sanzychan01',
 }
 
 
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['923336681780'] //ur owner number
-global.ownername = "King-Xit" //ur owner name
+global.vcardowner = ['923238583506'] //ur owner number
+global.ownername = "🐣⏤͟͟͞͞♥⃝ ᷞ ͦ ͮ ͤ🇨ዘＵᘔＡ_🤍" //ur owner name
 global.ytname = "YT: Xit" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['923336681780']
-global.ownertag = '923336681780' //ur tag number
-global.botname = 'King-Xit' //ur bot name
+global.owner = ['923238583506']
+global.ownertag = '923238583506' //ur tag number
+global.botname = '🐣⏤͟͟͞͞♥⃝ ᷞ ͦ ͮ ͤ🇨ዘＵᘔＡ_🤍' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "✅" //ur menu react emoji
 global.themeemoji = "📂" //ur theme emoji
-global.packname = "KING-XIT | XIT" //ur sticker watermark packname
-global.author = "King-Xit" //ur sticker watermark author
+global.packname = "KING-XIT | XIT (Anas)" //ur sticker watermark packname
+global.author = "🐣⏤͟͟͞͞♥⃝ ᷞ ͦ ͮ ͤ🇨ዘＵᘔＡ_🤍" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['923336681780'] //ur premium numbers
+global.premium = ['923336681780','923238583506'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
